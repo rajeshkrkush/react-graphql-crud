@@ -1,0 +1,24 @@
+{
+  "name": "nodeforredux-route-app",
+  "version": "1.0.0",
+  "description": "database query",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bunyan": "*",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.15.4",
+    "express-graphql": "^0.11.0",
+    "fs": "*",
+    "graphql": "^15.3.0",
+    "mysql": "*",
+    "path": "*"
+  }
+}
